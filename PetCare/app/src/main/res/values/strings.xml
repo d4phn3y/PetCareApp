@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">PetCare</string>
+
+        <string name="action_settings">Settings</string>
+        <!-- Strings used for fragments for navigation -->
+        <string name="first_fragment_label">First Fragment</string>
+        <string name="second_fragment_label">Second Fragment</string>
+        <string name="next">Next</string>
+        <string name="previous">Previous</string>
+
+        <string name="hello_first_fragment">Hello first fragment</string>
+        <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+        <string name="article_string">Types of food</string>
+        <string name="article_subheading">Article Subheading</string>
+        <string name="paragraph"> \nNot only can “human food” be perfectly safe for cats, but some of your groceries could actually be good for them. Discover some harmless staples you can share with your favorite feline: \n
+
+1. Fish\n While you don’t want your kitty eating from the aquarium, feeding him oily fish such as tuna or mackerel can help his eyesight, joints and brain.\n 2. Meat\n
+Poutry, beef and other meat is a natural option for your little carnivore. Cooked poultry is your best bet. Skip meats high in sodium, such as cold cuts or ham, as too much salt can be toxic to cats.\n
+3. Cheese\n
+Sharing a slice or wedge with your kitty is very Gouda of you (see what we did there?) as it’s high in calcium and protein.\n
+4. Bananas\n
+Kiddos aren’t the only ones who can benefit from bananas. They can be a healthy snack for cats, too, although they should only be a special treat due to their high sugar content.\n
+5. Berries\n
+Lower in sugar and high in antioxidants, blueberries and strawberries are good fruits to share with your kitty… although probably not in a pie.\n
+6. Melon\n
+Many cats enjoy small pieces of cantaloupe, honeydew or seedless watermelon. Plus, melon is high in vitamins A and C.\n
+7. Carrots\n
+While cats, unlike humans, don’t require veggies in their diet, they can be a safe and healthy treat. Your cat might nosh on some cooked carrots, but avoid raw ones as they may be a choking hazard.\n
+8. Rice\n
+Although not a necessary part of their diet, a little bit of white rice won’t harm your cat. In fact, it might be helpful if she’s having some digestive issues.\n
+9. Pumpkin\n
+Skip the spice and just give your kitty the pumpkin. Pureed pumpkin has fiber and nutrients that can help with everything from constipation to hairballs.\n
+10. Oatmeal\n
+Oats have lots of fiber, iron and even protein, all of which are beneficial to your cat’s overall health. You can also use them topically for skin problems.\n
+11. Eggs /n
+Protein-rich eggs are another healthful food you can share with your cat. Opt for cooked, as raw eggs may carry salmonella or E. coli.\n
+12. Spinach\n
+If you have ever seen your cat nibble on grass, then you know kitties like leafy greens. Spinach is high in vitamins, although it should not be given to cats with kidney or urinary problems.\n
+\n Of course, any and all of these foods should be given as occasional treats as part of a balanced diet.
+            Talk to your vet about the best food to feed your cat daily or if you have any concerns about what your kitty should or should not be eating.\n </string>
+
+
+    <string name="paragraph2"> \n1. Regular Exams are Vital\n
+
+Just like you, your pet can get heart problems, develop arthritis, or have a toothache. The best way to prevent such problems or catch them early is to see your veterinarian every year.
+
+Regular exams are the single most important way to keep pets healthy. Annual vet visits should touch on nutrition and weight control, as well as cover recommended vaccinations, parasite control, dental exam, and health screenings.
+\n
+2. Spay and Neuter Your Pets\n
+
+Eight million to 10 million pets end up in U.S. shelters every year. Some are lost, some have been abandoned, and some are homeless.
+
+Here’s an easy way to avoid adding to that number — spay and neuter your cats and dogs. It’s a procedure that can be performed as early as six to eight weeks of age.
+
+Spaying and neutering doesn’t just cut down on the number of unwanted pets; it has other substantial benefits for your pet. Studies show it also lowers the risk of certain cancers and reduces a pet’s risk of getting lost by decreasing the tendency to roam.
+\n
+3. Prevent Parasites\n
+
+Fleas are the most common external parasite that can plague pets, and they can lead to irritated skin, hair loss, hot spots, and infection. Fleas can also introduce other parasites into your cat or dog. All it takes is for your pet to swallow one flea, and it can to end up with tapeworms, the most common internal parasite affecting dogs and cats.
+
+Year-round prevention is key. Regular flea and intestinal parasite control, as well as heartworm prevention in endemic areas is important.
+
+Because some parasite medications made for dogs can be fatal to cats, talk to your vet about keeping your precious pets worm-free, flea-free — and safe.
+\n
+4. Maintain a Healthy Weight\n
+
+Many dogs and cats are overweight or obese. And just like people, obesity in pets comes with health risks that include diabetes, arthritis, and cancer.
+
+Overfeeding is the leading cause of obesity, says Douglas, who adds that keeping our pets trim can add years to their lives.
+
+Because pets need far fewer calories than most of us think — as little as 185-370 a day for a small, inactive dog; just 240-350 calories daily for a 10-pound cat — talk to your vet, who can make feeding suggestions based on your pet’s age, weight, and lifestyle.
+\n
+5. Get Regular Vaccinations\n
+
+For optimal health, pets need regular vaccinations against diseases such as rabies, distemper, feline leukemia, and canine hepatitis.
+
+How often your dog or cat needs to be immunized depends on their age, lifestyle, health, and risks so talk to your vet about the vaccinations that make sense for your pet.
+\n
+6. Provide an Enriched Environment\n
+
+An enriched environment is another key to the long-term health and welfare of your canine and feline friends.
+
+Pets need mental stimulation which may mean daily walks for your pooch, and scratching posts, window perches, and toys for your cat. It means play time with you, which not only keeps your pet’s muscles toned and boredom at bay, it also strengthens your bond with your four-footed companions.
+\n
+7. Microchip and Tattoo Your Pet\n
+
+Lack of identification means as few as 14% of pets ever find their way home after getting lost. Fortunately, microchipping and/or tattooing can allow for the pet to be reunited with its.
+
+About the size of a rice grain, a microchip is inserted under the skin in less than a second. It needs no battery and can be scanned by a vet or an animal control officer in seconds.
+\n
+8. Pets Need Dental Care, Too\n
+
+Just like you, your pet can suffer from gum disease, tooth loss, and tooth pain. And just like you, regular brushing and oral cleanings help keep your pet’s teeth strong and healthy.
+
+Dental disease is one of the most common preventable illnesses in pets yet many people never even look in their pet’s mouths. It’s estimated 80% of dogs and 70% cats show signs of dental disease by age three, leading to abscesses, loose teeth, and chronic pain. In addition to regular dental cleanings by your vet, periodontal disease can be avoided by proper dental care by owners. Owner care includes brushing, oral rinses, and dental treats.
+\n
+9. Never Give Pets People Medication\n
+
+Medicines made for humans can kill your pet. As a matter of fact, in 2010 the ASPCA listed human drugs in the top 10 pet toxins.
+
+NSAIDs like ibuprofen and naproxen are the most common pet poisoning culprits, but antidepressants, decongestants, muscle relaxants, and acetaminophen are just a few of the human drugs that pose health risks to pets. Human drugs can cause kidney damage, seizures, and cardiac arrest in a dog or cat.
+
+If you suspect your pet has consumed your medication — or anything toxic — call your veterinarian.
+\n
+10. Proper Restraint in a Vehicle\n
+
+You buckle up for safety when you’re in the car, shouldn’t your pet? Unrestrained pets in a car are a distraction to the driver, and can put driver and pet at risk for serious injury. To keep pets safe in transit:
+
+Never allow pets to travel in the front seat, where they’re at risk of severe injury or death if the airbag deploys.
+Don’t let dogs ride with their head out the window or untethered in the back of a truck bed. Both practices put them at risk of being thrown from the vehicle in the event of an accident.
+To keep pets safe, confine cats to carriers, then secure the carrier with a seatbelt. For dogs, there’s the option of a special harness attached to a seat belt, or a well-secured kennel.
+  \n
+    </string>
+</resources>
